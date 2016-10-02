@@ -216,4 +216,8 @@
     });
 
 })(jQuery, window, document);
+
+	$("img").lazyload{
+		event : "click"
+	};	
 </=>
